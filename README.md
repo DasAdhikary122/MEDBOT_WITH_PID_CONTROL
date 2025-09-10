@@ -18,3 +18,20 @@ MEDBOT Project is a healthcare service robot simulated in CoppeliaSim that funct
 
 ## 5: 
 ![medbot_operation](photo5.png)
+
+
+👨‍💻 Author :Suman Das Adhikary
+
+
+🔗 LinkedIn: linkedin.com/in/suman-das-adhikary-ba1651253
+
+📧 Contact: sumandasadhikary457@gmail.com
+
+
+
+📜 License
+
+This project is open-source under the MIT License.
+
+
+---
